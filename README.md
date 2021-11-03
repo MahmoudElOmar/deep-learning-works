@@ -1,2 +1,3 @@
-# various-works-machine-learning
-A repository containing various previous finished works in machine learning and deep learning.
+# Various Machine Learning previous works and tutorials with Python and Jupyter Notebook.
+
+1 - Unsupervised Learning and Clustering.
